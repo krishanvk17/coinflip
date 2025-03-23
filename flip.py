@@ -10,5 +10,5 @@ if st.button("Flip!"):
   else:
     st.write("Tails!")
 
-st.write("refresh to try again!")
+
   
